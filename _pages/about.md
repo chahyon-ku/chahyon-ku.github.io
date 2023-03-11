@@ -2,24 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: MS student at <a href='https://cse.umn.edu/mnri'>Minnesota Robotics Institute</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#   address: >
+#     <p>2-216 Keller Hall</p>
+#     <p>Minneapolis, MN</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+carousels:
+  - images: 
+    - image: /assets/img/about/image1.jpeg
+    - image: /assets/img/about/image2.jpg
+    # - image: /assets/img/about/image3.jpeg
+    # - image: /assets/img/about/image4.jpeg
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a M.S. student at [Minnesota Research Institute](https://cse.umn.edu/mnri) advised by [Assistant Professor Karthik Desingh](https://karthikdesingh.com/) as part of [Robotics: Perception, and Manipulation Lab](https://rpm-lab.github.io/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I spent the summer of 2022 working on the [Amazon-University of Washington Robot Manipulation Project](https://www.washington.edu/news/2022/02/09/uw-and-amazon-announce-creation-of-the-science-hub/). I completed my B.S. in Computer Science and Mathematics at University of Washington. During my B.S., I worked as a research assistant at [UW Robotics and State Estimation Lab](https://rse-lab.cs.washington.edu/) on the project [Evaluating SORNet on a Geometric and Spatial (GeoSpa) Reasoning Dataset](https://chahyon-ku.github.io/sornet-geospa/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in object manipulation for domestic robots. I am particularly interested in developing algorithms that enable robots to learn the relationship between multiple objects in cluttered environments from human demonstrations.
+
+<!-- Carousel (Ku) -->
+{% include carousel.html height="50" unit="%" duration="10" number="1" %}
