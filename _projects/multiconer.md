@@ -4,7 +4,7 @@ title: Multilingual Complex Named Entity Recognition with Data and Context Augme
 description: Extend pretrained language model (XLM-RoBERTa) <br> Data augmentation with Google Translate API (MulDA) <br> Context augmentation with Elasticsearch on Wikipedia (KB-NER)
 img: assets/projects/multiconer/preview.png
 importance: 1
-category: work
+category: nlp
 ---
 
 <h5 class="row justify-content-sm-center">

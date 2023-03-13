@@ -4,7 +4,7 @@ title: Primate Pose Estimation with Open Monkey Challenge
 description: Reimplement and compare HRNet and ViTPose <br> Basic domain randomization (RandAugment) <br> Learned species special tokens
 img: assets/projects/omc/preview.png
 importance: 1
-category: work
+category: vision
 ---
 
 <h5 class="row justify-content-sm-center">
