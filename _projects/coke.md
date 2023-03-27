@@ -25,9 +25,9 @@ University of Minnesota, Twin Cities
 </div>
 
 # Video
-<iframe src="https://www.youtube.com/embed/AZPvgqoTlSM" 
-    width="560" 
-    height="315"
+<p align="center"><iframe src="https://www.youtube.com/embed/AZPvgqoTlSM" 
+    width="800" 
+    height="450"
     frameborder="0" 
     allowfullscreen>
-</iframe>
+</iframe></p>
