@@ -4,7 +4,7 @@ title: Data generation for cap-the-bottle task
 description: PyBullet to generate physically feasible trajectories <br> Blender to generate photorealistic images 
 img: assets/projects/cap_data/preview.gif
 importance: 1
-category: highlight
+category: vision
 ---
 
 ## Trajectories
