@@ -5,7 +5,7 @@ date: 2023-12-01 16:11:00-0400
 inline: true
 ---
 
-Applying for PhD programs this cycle!
+Applying to PhD programs in Robotics and Computer Science for Fall 2024.
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

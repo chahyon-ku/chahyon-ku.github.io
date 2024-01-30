@@ -5,7 +5,7 @@ date: 2022-09-05 16:11:00-0400
 inline: true
 ---
 
-Joined Minnesota Robotics Institute as a Master's student.
+Joined [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri) as a M.S. student.
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

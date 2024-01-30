@@ -5,7 +5,7 @@ date: 2023-11-05 16:11:00-0400
 inline: true
 ---
 
-I presented our work [Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning](https://sites.google.com/view/geometric-peg-in-hole) at the [2nd Pretraining for Robot Learning Workshop at CoRL 2023](https://sites.google.com/view/corl2023-prl/schedule?authuser=0) as a 8-min spotlight presentation. First conference attendance!
+1 paper presented at CoRL 2023 Pretraining for Robot Learning Workshop. [Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning](https://sites.google.com/view/geometric-peg-in-hole).
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
