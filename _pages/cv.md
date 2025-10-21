@@ -1,18 +1,18 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 4
-cv_pdf: Chahyon Ku 2025 January.pdf
+cv_pdf: Chahyon Ku 2025 October.pdf
 ---
 
-[PDF](/assets/pdf/Chahyon Ku 2025 January.pdf) <br>
+<!-- [PDF](/assets/pdf/Chahyon Ku 2025 January.pdf) <br> -->
 <!-- [Transcript](/assets/pdf/UW .pdf) <br> -->
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Chahyon Ku 2025 January 1.jpg" title="poster" class="img-fluid rounded z-depth-1" %}
-        {% include figure.html path="assets/img/Chahyon Ku 2025 January 2.jpg" title="poster" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<a href="/assets/pdf/Chahyon Ku 2025 October.pdf">
+<img src="/assets/img/Chahyon Ku 2025 October/Chahyon Ku 2025 October-1.png" alt="Chahyon Ku 2025 October" width="70%">
+<br>
+<br>
+<img src="/assets/img/Chahyon Ku 2025 October/Chahyon Ku 2025 October-2.png" alt="Chahyon Ku 2025 October" width="70%">
+</a>
